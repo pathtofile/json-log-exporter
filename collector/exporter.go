@@ -1,7 +1,7 @@
 package collector
 
 import (
-	"github.com/ashwinikd/json-log-exporter/config"
+	"github.com/pathtofile/json-log-exporter/config"
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
 	"net/http"
